@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.back{
+  padding: 337px;
+}
+button{
+  padding: 10px 30px;
+  font-size: 24px;
+  color: red;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 10px;
+  border: 0;
+
+}
